@@ -1,9 +1,9 @@
 {
   "scanSettings": {
     "configMode": "AUTO",
-    "configExternalURL": "",
-    "projectToken": "",
-    "baseBranches": []
+    "configExternalURL": "https://app.whitesourcesoftware.com/agent",
+    "projectToken": "4579dd62b8f0452ab545a838083a78352560334c010f46ae847ab30cd95a4250",
+    "baseBranches": ["master"]
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
